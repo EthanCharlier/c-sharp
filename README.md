@@ -1,6 +1,6 @@
-Converter → JSON to XML conversion exercise
-ImageOptimizer → Image optimization exercise
-POO-Project → Vending machine project using Object-Oriented Programming (OOP)
-Perfo → Performance optimization exercise
-First-Project → Calculator project
-DataSources / LinqExercicePresentationNet8 → LINQ exercise
+- Converter → JSON to XML conversion exercise
+- ImageOptimizer → Image optimization exercise
+- POO-Project → Vending machine project using Object-Oriented Programming (OOP)
+- Perfo → Performance optimization exercise
+- First-Project → Calculator project
+- DataSources / LinqExercicePresentationNet8 → LINQ exercise
