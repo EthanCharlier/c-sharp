@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Converter/Converter.csproj" Id="44e40fdd-973a-460e-87cd-469910c295e7" />
+  <Project Path="DataSources/DataSources.csproj" />
+  <Project Path="First-Project/First-Project.csproj" />
+  <Project Path="ImageOptimizer/ImageOptimizer.csproj" Id="0e8e2a9b-4f20-4659-a7e7-468fe1fb36ab" />
+  <Project Path="LinqExercicePresentationNet8/LinqExercicePresentationNet8.csproj" />
+  <Project Path="Perfo/Perfo.csproj" Id="e8cd5bcf-6001-4106-979f-7b713d9bd499" />
+  <Project Path="POO-Project/POO-Project.csproj" />
+</Solution>
